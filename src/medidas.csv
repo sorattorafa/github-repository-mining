@@ -1,15 +1,16 @@
 Medidas,Tipo,Status
 N° linhas modificadas,Pull,OK
 Qntd arquivos alterados,Pull,OK
-Contém teste,Pull,
+Contém teste,Pull,OK
 Pull aceito,Pull,OK
 Qntd comentarios,Pull,OK
-Solicitante é colaborador,Pull,
-Solicitante segue o gerente,Pull/Usuario,
+Solicitante é colaborador,Pull,OK
+Solicitante segue o gerente,Pull/Usuario, OK
 Nome do projeto,Repositorio,OK
-Idade repositorio,Repositorio,
+Idade repositorio,Repositorio,OK
 N° estrelas,Repositorio,OK
 N° colaboradores,Repositorio,
 Linguagem,Repositorio,OK
 Solicitante fez interação anteriormente,Repositorio/Usuario,
 Qnt seguidores do solicitante,Usuario,
+Usuário que realizou o merge, Repositorio, OK
