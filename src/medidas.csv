@@ -5,12 +5,12 @@ Contém teste,Pull,OK
 Pull aceito,Pull,OK
 Qntd comentarios,Pull,OK
 Solicitante é colaborador,Pull,OK
-Solicitante segue o gerente,Pull/Usuario, OK
+Usuário que realizou o merge, Pull, OK
+Solicitante segue o gerente,Usuario/Pull, OK
+Qnt seguidores do solicitante,Usuario, OK
+Solicitante fez interação anteriormente,Usuario/Repositorio,
 Nome do projeto,Repositorio,OK
 Idade repositorio,Repositorio,OK
 N° estrelas,Repositorio,OK
 N° colaboradores,Repositorio, OK
 Linguagem,Repositorio,OK
-Solicitante fez interação anteriormente,Repositorio/Usuario,
-Qnt seguidores do solicitante,Usuario, OK
-Usuário que realizou o merge, Repositorio, OK
