@@ -1,0 +1,23 @@
+{
+   "is_fork":false,
+   "full_name":"JabRef/jabref",
+   "stars":2229,
+   "language":"Java",
+   "age":88,
+   "collaborators_quantity":"384",
+   "pull":{
+      "id":7911,
+      "user":"michel-kraemer",
+      "comments":1,
+      "changed_files":3,
+      "merged":true,
+      "collaborator_status":false,
+      "user_prior_interaction":0,
+      "user_follow_manager":false,
+      "user_followers_quantity":143,
+      "files":{
+         "changes":9,
+         "contain_tests":false
+      }
+   }
+}
